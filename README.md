@@ -36,5 +36,8 @@ Sensors → ESP32 (ADC Processing) → Threshold Logic → Alerts + Cloud (Thing
 - Improve sensor calibration accuracy
 - Develop mobile app dashboard
 
+## Notes
+Prototype system built and tested for real-world scenario validation.
+
 ## System Workflow
 ![Workflow](docs/diagram.png)
